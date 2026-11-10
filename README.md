@@ -1,5 +1,7 @@
 # FishIO
 
+> **Moved.** FishIO now ships inside [IO Hub](https://github.com/DrangedAddons/IOHub), which installs and updates it (WoW fishing bite trigger → *Install in WoW Forever*). Its source is [addons/FishIO](https://github.com/DrangedAddons/IOHub/tree/main/addons/FishIO) in that repo. This repository is archived.
+
 A World of Warcraft addon for WoW Forever. While a fishing pole is in your main hand, it turns off the sounds that aren't part of fishing, so the bobber's splash stands out. Take the pole off and your sound settings go back to exactly how they were.
 
 It's the companion to [IO Hub](https://github.com/DrangedAddons/IOHub)'s *WoW fishing bite* trigger, which listens to WoW's sound for the splash and can rumble your controller. It works on its own too: the splash is just easier to hear.
